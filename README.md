@@ -78,8 +78,9 @@ I believe consistent small efforts (daily streaks) beat motivation every time. �
 
 ---
 
-### 🐍 Contribution Snake:
-![Snake animation](https://github.com/ajay0020/ajay0020/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake:### 🐍 Contribution Snake:
+![Snake animation](https://raw.githubusercontent.com/ajay0020/ajay0020/output/github-contribution-grid-snake.svg)
+
 
 
 ---
