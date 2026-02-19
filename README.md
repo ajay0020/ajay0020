@@ -86,7 +86,8 @@ I believe consistent small efforts (daily streaks) beat motivation every time. ð
 ---
 
 ### ðŸŽ§ Spotify Playing:
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31sypa7ejc6nyfm36zirscnvhauu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00ff00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 ---
