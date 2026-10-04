@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m **Ajay Singh**  
-🎓 Final-year **B.Tech student** | 📱 **Mobile App Developer** | 🧩 **Problem Solver**  
-
+🎓 A Computer Science graduate and aspiring Software Developer with a strong interest in backend development, **Java, Python, SQL, and AI-driven applications**.
 🔭 **Currently Working On:**  
 🚑 A real-time **Ambulance SOS Service App** using **React Native**, focused on emergency response, real-time tracking, and fast ambulance coordination.
 
